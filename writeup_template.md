@@ -35,9 +35,7 @@ If you'd like to include images to show how the pipeline works, here is how to i
 ### 2. Identify potential shortcomings with your current pipeline
 
 
-One potential shortcoming would be what would happen when ... 
-
-Another shortcoming could be ...
+My pipeline only seems to work well with lines when the car is at low curvature. If the car were to be in a high curvature environment such
 
 
 ### 3. Suggest possible improvements to your pipeline
